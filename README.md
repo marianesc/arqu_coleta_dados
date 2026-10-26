@@ -5,7 +5,7 @@
 * Curso: MBA em Engenharia e Análise de Dados
 * Instituição: Centro Universitário de João Pessoa (UNIPÊ)
 
-** Guia de execução
+## Guia de execução
 Requisitos:
 * Python 3.11
 * Docker
